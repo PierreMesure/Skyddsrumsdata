@@ -13,7 +13,7 @@ QUERY_PARAMETERS = {
     'cacheHint': True,
     'maxRecordCountFactor': 4,
     'resultOffset': 16000,
-    'resultRecordCount': 8000,
+    'resultRecordCount': 100000,
     'where': '1=1',
     'orderByFields': 'OBJECTID',
     'outFields': 'OBJECTID,Gatuadress,Kommunnamn,AntalPlatser,Skyddsrumsnr',
