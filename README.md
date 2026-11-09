@@ -1,5 +1,9 @@
 # Skyddsrumsdata
 
+> **UPDATE**: MCF recently improved the way they publish the Skyddsrumskarta and its open data under several new formats: CSV, GeoPKG, GeoJSON, KML.
+>
+> Therefore, this project is now largely redundant and I have archived it.
+
 With the invasion of Ukraine and the resulting increase in tension with Russia, there has been a renewed interest in Sweden's total defence strategy (*totalförsvar*) and its degree of preparation (*beredskapen*). One of these aspects is the impressive number of shelters (*skyddsrum*) that have been built since the Second World War.
 
 MSB is in charge of keeping track of them and has a cool online map called [Skyddsrumskarta](https://www.msb.se/sv/verktyg--tjanster/skyddsrumskarta/). It's probably the easiest tool you can find if you just want to find the shelters near you and some basic info such as their capacity.
